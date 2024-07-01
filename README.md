@@ -9,13 +9,15 @@ Paso 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/Vhenrry/apiProductosTest.git
    ```
-# Ejecutar el proyecto
+*Seguir el manual de configuracion
+
+# Instala las dependencias
 
    ```bash
    npm install
    ```
 
-# Ejecutar el comando 
+# Ejecutar el comando
 
    ```bash
    npm run start
@@ -31,19 +33,21 @@ Paso 2. Clonar el repositorio:
    git clone https://github.com/Vhenrry/final_proyec.git
    ```
 
-# Ejecutar el proyecto
+*Seguir el manual de configuracion
+
+# Instala las dependencias
 
    ```bash
    npm install
    ```
 
-# Ejecutar el comando 
+# Ejecutar el proyecto
 
    ```bash
    npm start dev
    ```
 
-## Inplementacion de cypress
+## Inplementacion de cypress abrir para ejecutar los ejercicios
 
    ```bash
    npx cypress open
